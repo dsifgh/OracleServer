@@ -34,9 +34,9 @@ public:
         else
             cout << "CreateOracleDataBaseEnvironment Success" << endl;
 
-        string name = "moyu";
-        string pass = "guojiayi520";
-        string srvName = "127.0.0.1:1521/orcl";
+        string name = "Scott";
+        string pass = "tiger";
+        string srvName = "127.0.0.1:1521/West";
 
         //创建数据库连接  
         try
